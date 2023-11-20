@@ -1,6 +1,6 @@
 # RegisterPageMVC
 
-- Crete a New MVC application.
+- Crete a New MVC application.(Clone and use already created application)
 - Create a login with similler below design using bootstrap
 - Add required field validations
 - Add ajax post call to submit the data.
