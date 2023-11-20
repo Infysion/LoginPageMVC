@@ -1,4 +1,4 @@
-# LoginPageMVC
+# RegisterPageMVC
 
 - Crete a New MVC application.
 - Create a login with similler below design using bootstrap
